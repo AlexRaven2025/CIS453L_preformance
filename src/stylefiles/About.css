@@ -1,0 +1,49 @@
+.Main-about-container {
+    height: 1000px;
+    width: 900px;
+    margin-top:20px;
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 50px;
+    border-bottom-left-radius: 50px;
+    background-color: rgba(169, 169, 169, 0.5);
+}
+.about-information{
+    margin-top: 50px;
+    padding: 20px;
+    text-align: center;
+
+}
+.nav-links-about{
+    text-align: center;
+    justify-content: center;
+    margin-top: -20px;
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 50px;
+    border-bottom-left-radius: 50px;
+    background-color: rgba(162, 163, 164, 0.5);
+
+}
+.about-information p{
+    font-size: 24px;
+    font-weight: 200;
+}
+
+.bmi-about-introduction{
+     margin-top: 50px;
+     padding: 20px;
+    text-align: center;
+
+}
+.bmi-about-introduction p{
+    font-size: 24px;
+    font-weight: 200;
+}
+.about-information-section{
+    height: 940px;
+    width:850px;
+    margin-top: 10px;
+    border-radius: 10px;
+    background-color: rgba(240,248,255,.5);
+}

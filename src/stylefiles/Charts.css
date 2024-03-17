@@ -1,0 +1,29 @@
+.charts-main-container {
+    height: 1700px;
+    width: 1050px;
+    margin-top: 700px;
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+    border-bottom-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+    background-color: rgba(169, 169, 169, 0.5);
+}
+.image-Col{
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+.nav-links-chart{
+    text-align: center;
+    justify-content: center;
+    margin-top: -10px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    background-color: rgba(162, 163, 164, 0.5);
+}
+.charts-info-section{
+    margin:5px;
+    padding:20px;
+    border-radius: 20px;
+    background-color: rgba(162, 163, 164, 0.5);
+}

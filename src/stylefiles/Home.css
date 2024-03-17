@@ -1,0 +1,70 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; 
+    margin: 0; 
+    background-image: linear-gradient(to right, #8e2de2, #4a00e0); 
+}
+
+.home-main-cover {
+    height: 800px;
+    width: 700px;
+    border-radius: 50px;
+    background-color: rgba(169, 169, 169, 0.5);
+}
+.home-main-input-fields input[type='number']{
+    display: flex;
+    justify-content: center;
+    border: none;
+    margin-top: 20px;
+    align-items: center;
+    height: 60px;
+    width:300px;
+    border-radius: 20px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    background-color: aliceblue;
+}
+.height-feet-inches input[type='number']{
+    width: 100px;
+
+}
+.home-main-cover label{
+    margin-top: 20px;
+    text-align: center;
+}
+.home-main-cover label h2{
+   font-size: 24px; 
+}
+.btn-container{
+    position: absolute;
+    bottom: -190px; 
+    left: 50%;
+    transform: translateX(-50%);
+}
+.calcutale-btn{
+    width: 300px;
+}
+#home-title{
+    text-align: center;
+    
+}
+#home-title h1{
+  font-size: 100px;  
+}
+.linkBar-Home{
+    position: absolute; 
+    margin-top:10px;
+    /* margin: 5px; */
+    border-radius: 20px;
+    right: 0%;
+    background-color: #8e2de2;
+}
+.result-bmi{
+    margin-top: 20px;
+    text-align: center;
+    position: relative;
+}
+.result-bmi #bmi-result-title{
+    margin-top: -200px;
+}

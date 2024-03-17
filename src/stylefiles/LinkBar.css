@@ -1,0 +1,27 @@
+.navLinkMain{
+    background-color: aliceblue;
+}
+.About{
+    color: aliceblue;
+    text-decoration: none;
+}
+.Chart{
+    text-decoration: none;
+    color: aliceblue;
+}
+.About:hover{
+     color: rgb(255, 161, 176);
+    text-decoration: none;
+}
+.Chart:hover{
+    color: rgb(255, 161, 176);
+    text-decoration: none;
+}
+.Home:hover{
+    color: rgb(255, 161, 176);
+    text-decoration: none;
+}
+.Home{
+    text-decoration: none;
+    color: aliceblue;
+}
